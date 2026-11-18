@@ -13,7 +13,7 @@ The 8085 Microprocessor Simulator is a Java-based desktop application developed 
 
 ## Technologies Used
 - Java
-- Java Swing
+- Java Swing & Java fx
 - Object-Oriented Programming
 
 ## How to Run
